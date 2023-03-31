@@ -4,7 +4,7 @@ import FilterByLicensePlate from "./screens/FilterByLicensePlate/FilterByLicense
 import FilterByModel from "./screens/FilterByModel/FilterByModel";
 function App() {
   return (
-    <div>
+    <div className="App">
       <FilterByCategory />
       <FilterByLicensePlate />
       <FilterByModel />

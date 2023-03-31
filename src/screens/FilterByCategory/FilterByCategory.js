@@ -37,7 +37,7 @@ const FilterByCategory = () => {
 
       <ul>
         {filteredItems.map((data) => (
-          <li key={data.vehicleId}>
+          <li key={data.vehicleId} style={{ listStyleType: "none" }}>
             {data.vehicleBrand} {data.vehicleModel} ({data.vehicleCategory})
           </li>
         ))}

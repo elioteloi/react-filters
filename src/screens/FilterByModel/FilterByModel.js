@@ -35,7 +35,7 @@ const FilterByModel = () => {
 
       <ul>
         {filteredItems.map((data) => (
-          <li key={data.vehicleId}>
+          <li key={data.vehicleId} style={{ listStyleType: "none" }}>
             {data.vehicleModel} ({data.vehicleCategory})
           </li>
         ))}
