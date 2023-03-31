@@ -1,0 +1,509 @@
+[
+  {
+  "vehicleId": 1,
+  "vehiclePlate": "1337C0D3",
+  "vehicleBrand": "Volkswagem",
+  "vehicleModel": "Gol",
+  "vehicleCategory": "Hatch Econômico",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 2,
+  "vehiclePlate": "1337C0D3",
+  "vehicleBrand": "Volkswagem",
+  "vehicleModel": "Gol",
+  "vehicleCategory": "Hatch Econômico",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 3,
+  "vehiclePlate": "1337C0D3",
+  "vehicleBrand": "Volkswagem",
+  "vehicleModel": "Gol",
+  "vehicleCategory": "Hatch Econômico",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 4,
+  "vehiclePlate": "1337C0D3",
+  "vehicleBrand": "Volkswagem",
+  "vehicleModel": "Gol",
+  "vehicleCategory": "Hatch Econômico",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 5,
+  "vehiclePlate": "1337C0D3",
+  "vehicleBrand": "Volkswagem",
+  "vehicleModel": "Gol",
+  "vehicleCategory": "Hatch Econômico",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 6,
+  "vehiclePlate": "1337C0D3",
+  "vehicleBrand": "Volkswagem",
+  "vehicleModel": "Gol",
+  "vehicleCategory": "Hatch Econômico",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 7,
+  "vehiclePlate": "1337C0D3",
+  "vehicleBrand": "Volkswagem",
+  "vehicleModel": "Gol",
+  "vehicleCategory": "Hatch Econômico",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 8,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Peugeot",
+  "vehicleModel": "208",
+  "vehicleCategory": "Hatch Intermediário",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 9,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Peugeot",
+  "vehicleModel": "208",
+  "vehicleCategory": "Hatch Intermediário",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 10,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Peugeot",
+  "vehicleModel": "208",
+  "vehicleCategory": "Hatch Intermediário",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 11,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Peugeot",
+  "vehicleModel": "208",
+  "vehicleCategory": "Hatch Intermediário",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 12,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Peugeot",
+  "vehicleModel": "208",
+  "vehicleCategory": "Hatch Intermediário",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 13,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Fiat",
+  "vehicleModel": "Cronos",
+  "vehicleCategory": "Sedan",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 14,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Fiat",
+  "vehicleModel": "Cronos",
+  "vehicleCategory": "Sedan",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 15,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Fiat",
+  "vehicleModel": "Cronos",
+  "vehicleCategory": "Sedan",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 16,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Fiat",
+  "vehicleModel": "Cronos",
+  "vehicleCategory": "Sedan",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 17,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Fiat",
+  "vehicleModel": "Cronos",
+  "vehicleCategory": "Sedan",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 18,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Fiat",
+  "vehicleModel": "Cronos",
+  "vehicleCategory": "Sedan",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 19,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Volkswagem",
+  "vehicleModel": "T-Cross",
+  "vehicleCategory": "SUV Compacto",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 20,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Volkswagem",
+  "vehicleModel": "T-Cross",
+  "vehicleCategory": "SUV Compacto",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 21,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Fiat",
+  "vehicleModel": "Pulse",
+  "vehicleCategory": "SUV Compacto",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+},
+{
+  "vehicleId": 22,
+  "vehiclePlate": "4122D1F2",
+  "vehicleBrand": "Fiat",
+  "vehicleModel": "Pulse",
+  "vehicleCategory": "SUV Compacto",
+  "contracts": [
+    {
+        "contractId": 5,
+        "userId": 23,
+        "userName": "Elliot",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    },
+    {
+        "contractId": 6,
+        "userId": 25,
+        "userName": "Lorran",
+        "startDate": "2023-03-14 12:08:31.000",
+        "endDate": "2023-03-25 12:08:31.000"
+    }
+]
+}
+
+]

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Calendar</title>
+	<style>
+		table {
+			border-collapse: collapse;
+		}
+		td {
+			width: 50px;
+			height: 50px;
+			text-align: center;
+			vertical-align: middle;
+			border: 1px solid black;
+		}
+	</style>
+</head>
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th>Sun</th>
+				<th>Mon</th>
+				<th>Tue</th>
+				<th>Wed</th>
+				<th>Thu</th>
+				<th>Fri</th>
+				<th>Sat</th>
+			</tr>
+		</thead>
+		<tbody id="calendar-body">
+		</tbody>
+	</table>
+
+	<script>
+		function createCalendar(year, month) {
+			var date = new Date(year, month, 1);
+			var calendarBody = document.getElementById("calendar-body");
+			calendarBody.innerHTML = "";
+
+			var row = document.createElement("tr");
+
+			// add empty cells for days before the first of the month
+			for (var i = 0; i < date.getDay(); i++) {
+				var cell = document.createElement("td");
+				row.appendChild(cell);
+			}
+
+			// add cells for each day of the month
+			while (date.getMonth() === month) {
+				var cell = document.createElement("td");
+				cell.innerText = date.getDate();
+				row.appendChild(cell);
+
+				if (date.getDay() === 6) { // end of week
+					calendarBody.appendChild(row);
+					row = document.createElement("tr");
+				}
+
+				date.setDate(date.getDate() + 1);
+			}
+
+			// add empty cells for days after the last of the month
+			if (date.getDay() !== 0) {
+				for (var i = date.getDay(); i < 7; i++) {
+					var cell = document.createElement("td");    
+					row.appendChild(cell);
+				}
+			}
+
+			calendarBody.appendChild(row);
+		}
+
+		createCalendar(2023, 3); // example usage: display March 2023 calendar
+	</script>
+</body>
+</html>
